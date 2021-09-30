@@ -1,1 +1,1 @@
-# PromoCode
+Instructions within ZIP file.
